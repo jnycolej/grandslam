@@ -1,0 +1,229 @@
+{
+  "cards": [
+  {
+    "description": "Next 1-2-3 Inning (Three Up, Three Down)",
+    "penalty": "Shotgun",
+    "points": 3
+  },
+  {
+    "description": "Next Beer Commercial",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Car Commercial",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Changeup That's A Strike",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Curve That's A Strike",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Diving Catch",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Double",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Double Play",
+    "penalty": "3 Drinks",
+    "points": 3
+  },
+  {
+    "description": "Next Foul Ball",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Full Count",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Home Run",
+    "penalty": "Take a shot",
+    "points": 4
+  },
+  {
+    "description": "Next Left Handed Batter",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Mound Visit By Coach",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Out At First Base",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Out At Home Base",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Out At Third Base",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Pop Out Or Flyout",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Replay Review",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Run",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Single",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Slider That’s A Strike",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Sports Betting Commercial",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Steal",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Strikeout",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Time Announcer Says Fast Ball",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Time A Pitcher Attempts To Pickoff A Player",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Time A Player Catches A Foul Ball",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Time a Player is Filmed Spitting",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Time A Player Is In A Pickle",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Time A Player Slides",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Time An Announcer Mentions A Retired Player",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Time Announcer Says Left Field",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Time Bases Are Loaded",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Time The Announcer Says Ground Ball",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Time The Bases Are Loaded",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Time The Catcher Drops The Ball",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Time The Count is 1-2",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Time The Count is 2-0",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Time The Count Is 2-2",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Time There Is 2 Balls In a Row",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Time There Is Two Strikes In A Row",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Triple",
+    "penalty": "3 Drinks",
+    "points": 3
+  },
+  {
+    "description": "Next Walk",
+    "penalty": "1 Drink",
+    "points": 1
+  },
+  {
+    "description": "Next Time A Player Commits An Error",
+    "penalty": "2 Drinks",
+    "points": 2
+  },
+  {
+    "description": "Next Shutout Inning ",
+    "penalty": "2 Drinks",
+    "points": 2
+  }
+]
+}
